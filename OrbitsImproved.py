@@ -4,7 +4,7 @@ from manim import *
 
 #G = 39.478
 G = 15
-config.frame_rate = 120
+config.frame_rate = 60
 
 m1 = 1.0 
 m2 = 1.0  
